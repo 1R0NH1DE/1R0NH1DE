@@ -1,3 +1,5 @@
+```
+java
 import galaxy.earth.ironhide;
 public class IronHide{
 
@@ -26,3 +28,4 @@ public class IronHide{
        hide.about();
     }
 }
+```
