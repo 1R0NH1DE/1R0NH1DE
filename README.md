@@ -1,5 +1,4 @@
-```
-java
+```typescript
 import galaxy.earth.ironhide;
 public class IronHide{
 
